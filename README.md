@@ -20,9 +20,3 @@ Here are some ideas to get you started:
 📱 My passion for mobile development started with creating my own apps for fun and has grown into a desire to create intuitive and seamless user experiences for others.
 
 ⚡️ I am highly motivated and constantly seeking out new challenges and opportunities to learn and grow as a developer.
-
-🌟 Some of my notable projects include:
-
-A social networking app that allows users to connect with friends and join groups based on shared interests.
-A task management app that utilizes the iOS calendar and reminders frameworks to help users stay organized.
-🤝 I am always open to collaborating and learning from others in the development community. Feel free to reach out to me on GitHub or connect with me on LinkedIn
