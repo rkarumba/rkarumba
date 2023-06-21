@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🧑🏽‍💻Hi there! My name is Raymond Karumba and I am an aspiring iOS developer.
-💻 I have a strong foundation in computer science principles and am constantly learning new technologies and frameworks to improve my skills.
+🧑🏽‍💻Hi there! My name is Raymond Karumba and I am a curious person
 
-⚡️ I am highly motivated and constantly seeking out new challenges and opportunities to learn and grow as a developer.
